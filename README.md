@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a loan application should be approved or rejected based on an applicant's financial profile. Built with XGBoost and deployed with Streamlit.
 
-**🔗 Live App:** [Click here to try it](YOUR_STREAMLIT_URL)
+**🔗 Live App:** [Live App here ]((https://loan-approver-ai-jxqfjujqgkgrrepaz3fgfb.streamlit.app/))
 
 ---
 
@@ -91,4 +91,4 @@ loan-approval-ai/
 
 ---
 
-*Built by [Your Name] · 2026*
+*Built by Ishaan Thasale · 2026*
