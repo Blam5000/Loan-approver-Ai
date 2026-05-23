@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a loan application should be approved or rejected based on an applicant's financial profile. Built with XGBoost and deployed with Streamlit.
 
-**🔗 Live App:** [Live App here ]((https://loan-approver-ai-jxqfjujqgkgrrepaz3fgfb.streamlit.app/))
+**🔗 Live App:** https://loan-approver-ai-jxqfjujqgkgrrepaz3fgfb.streamlit.app/
 
 ---
 
@@ -50,7 +50,7 @@ After training, the model achieved **93% accuracy** on unseen test data. I also 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-approval-ai.git
+git clone https://github.com/blam_5000/loan-approval-ai.git
 cd loan-approval-ai
 pip install -r requirements.txt
 ```
